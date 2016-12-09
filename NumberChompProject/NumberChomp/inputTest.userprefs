@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\moveToNewL.cs">
+    <Files>
+      <File FileName="Assets\scripts\moveToNewL.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\buttCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\clickLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\answerCh.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\minuteQs.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\scoreKeep.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
